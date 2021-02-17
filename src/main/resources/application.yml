@@ -1,0 +1,11 @@
+
+#spring.profils.active=de
+
+guru:
+  username: "John"
+  password: "somepass"
+  dburl: "sdss"
+  jms:
+    username: "JMS Username"
+    password: "somepass"
+    url: "SomeURL"
